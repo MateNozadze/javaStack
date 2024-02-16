@@ -5,6 +5,9 @@ public class Main {
         stack.push(2);
         stack.push(5);
         stack.push(1);
+        stack.push(3);
+        stack.push(55);
+        stack.push(12);
         stack.pop();
         stack.print();
     }
